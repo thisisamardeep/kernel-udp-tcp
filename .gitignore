@@ -1,0 +1,9 @@
+cmake-build-debug
+.idea
+/uftrace.data/
+/amar.log
+/catapult/
+/.venv/
+/scripts/uftrace.data/
+/scripts/uftracefull.log
+/scripts/uftracegraph.log

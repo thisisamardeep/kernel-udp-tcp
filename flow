@@ -1,0 +1,9 @@
+
+Linux kernel important files to debug:
+drivers/vfio/pci/vfio_pci.c
+drivers/vfio/pci/vfio_pci_core.c:
+drivers/iommu/amd/iommu.c (amd )
+
+For udp
+drivers/uio/uio.c
+include/uapi/linux/uio.h
